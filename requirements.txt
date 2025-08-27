@@ -1,0 +1,7 @@
+crewai
+langchain
+duckduckgo-search
+arxiv
+wikipedia
+youtube-search
+chromadb
